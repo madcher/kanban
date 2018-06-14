@@ -36,11 +36,13 @@ hr {
    border: 1px solid #555555;
    border-radius: 5px;
    color: #555555;
+   background: #d6d6d7;
  }
 
  button:hover{
    color: black;
    border-color: black;
+   background: #d9d0d0;
  }
  .ui-dialog {
    min-width: 600px;
